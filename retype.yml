@@ -1,0 +1,38 @@
+poweredByRetype: true
+
+outbound:
+  exclude:
+    - minebone.net
+    - minebone.es
+
+breadcrumb:
+  home: ":icon-home:"
+
+toc:
+  label: Índice
+  depth: 2-4
+
+url: wiki.minebone.net
+
+branding:
+  logo: /static/logo.png
+
+meta:
+  title: " | MineBone Wiki"
+
+generator:
+  paths: root
+
+edit:
+  repo: github.com/mine-bone/wiki
+
+links:
+  - text: Tienda
+    link: https://tienda.minebone.net
+    icon: credit-card-24
+    target: blank
+
+  - text: Discord
+    link: https://github.com/retypeapp/retype/issues
+    icon: comment-24
+    target: blank
