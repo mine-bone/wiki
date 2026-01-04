@@ -12,7 +12,7 @@ toc:
   label: Índice
   depth: 2-4
 
-url: wiki.minebone.net
+url: wiki.minebone.es
 
 branding:
   logo: /static/logo.png
@@ -33,6 +33,6 @@ links:
     target: blank
 
   - text: Discord
-    link: https://github.com/retypeapp/retype/issues
+    link: https://discord.minebone.net
     icon: comment-24
     target: blank
