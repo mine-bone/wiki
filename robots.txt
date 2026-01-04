@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wiki.minebone.net/sitemap.xml.gz
+Sitemap: https://wiki.minebone.es/sitemap.xml.gz
