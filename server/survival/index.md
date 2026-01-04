@@ -1,3 +1,11 @@
+---
+authors:
+  - name: fpalomo
+    email: mail@fpalomo.es
+    link: https://www.fpalomo.com
+categories:
+  - survival
+---
 
 # Survival Towny
 -  **Versión mínima:** Minecraft 1.21.10
@@ -5,47 +13,15 @@
 -  **Última actualización:** 04/01/2026 por @fernandopal
 
 # Normas del servidor
-1. No se permite el uso de hacks o paquetes de recursos de tipo x-ray, aprobecharse de bugs
-	- 1ª infracción: Ban permanente en todos los servidores de MineBone Network
+=== No se permite hacer "Spawnkill" o "tpa kill" a otros jugadores
+1ª infracción: Expulsión del servidor
+1ª infracción: Ban temporal 7 días
+3ª infracción: Ban permanente en Survival
 
-2. No se permite hacer "Spawnkill" o "tpa kill" a otros jugadores
-	- 1ª infracción: Expulsión del servidor
-	- 1ª infracción: Ban temporal 7 días
-	- 3ª infracción: Ban permanente en Survival
-
-3. No se permite el uso de lenjuage ofensivo o no apto para todos los públicos
-	- 1ª infracción: Expulsión del servidor
-	- 2ª infracción: Según la gravedad se sancionará con un silencio temporal de entre 24h y 90 días
-
-4. Hacer doxing o acosar a otros jugadores
-	- 1ª infracción: Silencio temporal de 48h
-	- 2ª infracción: Silencio permanente
-
-5. Hacer spam, compartir IPs o URLs relacionadas con otros servidores o incitar a los jugadores a que se juegue en ellos
-	- 1ª infracción: Expulsión del servidor
-	- 2ª infracción: Silencio de 24 a 72h, a criterio del staff
-
-6. Hacer apología de odio, póliticas, religiosas, etc.
-	- 1ª infracción: Expulsión del servidor
-	- 2ª infracción: Silencio de 24 a 72h, a criterio del staff
-
-7. Abuso del comando /report
-	- 1ª infracción: Aviso verbal
-	- 2ª infracción: Impedimento para volver a usar el comando /report
-
-8. Hacer construcciones racistas, fascistas, xenófobas, homófobas, sexistas
-	- 1ª infracción: Aviso verbal y eliminación de la construcción en cuestión
-	- 2ª infracción: Ban temporal de 72h en survival
-	- 3ª infracción: Ban permanente en survival
-
-9. Ignorar al staff (Antes de considerar que un jugador está ignorando al staff, se intentará varias veces que responda)
-	- 1ª infracción: Expulsión del servidor
-	- 2ª infracción: Ban temporal 1h (se mostrará un mensaje dejado por el staff para que lo vea al intentar entrar)
-	- Si se sigue incumpliendo esta norma se seguirán aplicando baneos temporales en los que se duplicará el tiempo cada vez (1h -> 2h -> 4h -> 8h, etc.)
-
-10. Hacer máquinas de lag o intentar tumbar el servidor
-	- 1ª infracción: Ban permanente en Survival
-	- 2ª infracción (en otra modalidad): Ban permanente en todos los servidores de MineBone Network
+=== Hacer construcciones racistas, fascistas, xenófobas, homófobas, sexistas
+1ª infracción: Aviso verbal y eliminación de la construcción en cuestión
+2ª infracción: Ban temporal de 72h en survival
+3ª infracción: Ban permanente en survival
 
 # Empezar en Towny
 ## ¿Que es Towny?

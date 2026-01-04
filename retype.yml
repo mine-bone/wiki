@@ -1,9 +1,17 @@
 poweredByRetype: true
 
+editor:
+  enabled: true
+
+locale: es
+
 outbound:
   exclude:
     - minebone.net
     - minebone.es
+
+nextprev:
+  mode: exclude
 
 breadcrumb:
   home: ":icon-home:"
@@ -13,6 +21,8 @@ toc:
   depth: 2-4
 
 url: wiki.minebone.es
+
+favicon: static/logo.png
 
 branding:
   logo: /static/logo.png
@@ -36,3 +46,9 @@ links:
     link: https://discord.minebone.net
     icon: comment-24
     target: blank
+
+data:
+  version: "3.12.0-preview2"
+  abbreviations:
+    Huesitos: Moneda virtual de MineBone
+    Spawnkill: Matar a otro jugador o jugadores de forma repetida en una zona de spawn o teletransporte
