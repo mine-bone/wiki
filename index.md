@@ -1,8 +1,6 @@
 ---
 authors:
-  - name: fpalomo
-    email: mail@fpalomo.es
-    link: https://www.fpalomo.com
+  - fpalomo
 categories:
   - general
 ---

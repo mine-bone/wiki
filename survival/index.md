@@ -1,7 +1,6 @@
 ---
 authors:
-  - name: fpalomo
-    link: https://www.fpalomo.com
+  - fpalomo
 categories:
   - survival
 ---
