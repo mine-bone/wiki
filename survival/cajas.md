@@ -11,7 +11,7 @@ Puedes consultar el loot y probabilidades de cualquier caja con solo dar click i
 
 ## Caja de votos
 Cada día puedes usar el comando `/vote` para obtener hasta un máximo de 5 llaves para esta caja, no pueden obtenerse de ninguna otra forma y todo el mundo puede obtener la misma cantidad de llaves, independientemente de su rango.
-![comando /vote](../static/.vote.png)
+![Comando /vote](../static/survival-vote.png)
 
 Cuando votes en 40servidoresmc.es (vote1.minebone.net), puedes usar el comando `/vote40` para obtener una llave adicional, debería ejecutarse automáticamente pero a veces falla por lo que debes tenerlo en cuenta.
 
