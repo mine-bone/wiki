@@ -21,6 +21,7 @@ Puedes ver información sobre tu ciudad usando el comando `/t` y puedes ver info
 - Cantidad de dinero en el banco de la ciudad
 - Cantidad de impuestos (Los impuestos se cobran a los residentes para ayudar a mantener la ciudad)
 - Coste de mantenimiento de la ciudad
+![comando /t](../static/.t.png)
 
 ## Como unirse a una ciudad
 Si en lugar de crear tu propia ciudad prefieres unirte a una ya existente, puedes ver todas las ciudades que han creado otras personas usando `/t list`, tendrás que solicitar a su alcalde que te invite.

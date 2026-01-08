@@ -28,3 +28,9 @@ Disponemos de varios comandos que te permiten moverte mas facilmente por el mund
 - `/tpa <jugador>` solicita a un jugador que te permita teletransportarte hacia el
 - `/spawn` te lleva al spawn de survival
 - `/sethome <nombre>` y `/home <nombre>` puedes usarlos para guardar un punto y teletransportarte cuando quieras, solo tienes la posibilidad de establecer una casa al mismo tiempo por lo que si quieres cambiarla de sitio puedes usar `/delhome <nombre>` para borrarla o comprar nuestro rango BONE en [nuestra tienda](https://tienda.minebone.net) para expandir este límite.
+
+# Enlaces de interés
+== Información sobre Towny
+[!ref Towny](/towny.md)
+== Cajas de loot en survival
+[!ref Cajas de loot](/cajas.md)
