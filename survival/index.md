@@ -34,3 +34,7 @@ Disponemos de varios comandos que te permiten moverte mas facilmente por el mund
 [!ref Towny](/towny.md)
 == Cajas de loot en survival
 [!ref Cajas de loot](/cajas.md)
+== Funcionamiento de las guerras
+[!ref Guerras](/guerras.md)
+== Mapa de survival
+[!ref Mapa web](/guerras.md)
