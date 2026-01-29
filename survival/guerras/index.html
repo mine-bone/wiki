@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.822997497002">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.822998592993">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -11,7 +11,7 @@
     <!-- Primary Meta Tags -->
     <title>Atacar a un enemigo | MineBone Wiki</title>
     <meta name="title" content="Atacar a un enemigo | MineBone Wiki">
-    <meta name="description" content="Para atacar a un enemigo, simplemente necesitas colocar un bloque específico (por defecto, una OAK_FENCE">
+    <meta name="description" content="Para atacar a un enemigo, simplemente necesitas colocar una valla de roble en una parcela de una ciudad enemiga donde se cumplan las condiciones...">
 
     <!-- Canonical -->
     <link rel="canonical" href="https://wiki.minebone.es/survival/guerras/">
@@ -20,22 +20,22 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://wiki.minebone.es/survival/guerras/">
     <meta property="og:title" content="Atacar a un enemigo | MineBone Wiki">
-    <meta property="og:description" content="Para atacar a un enemigo, simplemente necesitas colocar un bloque específico (por defecto, una OAK_FENCE">
+    <meta property="og:description" content="Para atacar a un enemigo, simplemente necesitas colocar una valla de roble en una parcela de una ciudad enemiga donde se cumplan las condiciones...">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://wiki.minebone.es/survival/guerras/">
     <meta property="twitter:title" content="Atacar a un enemigo | MineBone Wiki">
-    <meta property="twitter:description" content="Para atacar a un enemigo, simplemente necesitas colocar un bloque específico (por defecto, una OAK_FENCE">
+    <meta property="twitter:description" content="Para atacar a un enemigo, simplemente necesitas colocar una valla de roble en una parcela de una ciudad enemiga donde se cumplan las condiciones...">
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link href="/static/logo.png" rel="icon">
-    <link href="/resources/css/retype.css?v=3.11.0.822997497002" rel="stylesheet">
+    <link href="/resources/css/retype.css?v=3.11.0.822998592993" rel="stylesheet">
 
-    <script data-cfasync="false" src="/resources/js/config.js?v=3.11.0.822997497002" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="/resources/js/config.js?v=3.11.0.822998592993" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="/resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="/resources/js/lunr.js?v=3.11.0.822997497002" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="/resources/js/lunr.js?v=3.11.0.822998592993" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -223,33 +223,22 @@
     <div><a href="/categories/guerras/">guerras</a></div>
 </div>
 
-<p>Para atacar a un enemigo, simplemente necesitas colocar un bloque específico (por defecto, una <strong>OAK_FENCE</strong>) en una parcela de una ciudad enemiga donde se cumplan las condiciones adecuadas. Si el ataque tiene éxito, se generará una <strong>bandera de guerra</strong> y aparecerá un <strong>War Beacon</strong> en el cielo, justo encima del centro de la parcela.</p>
-<doc-anchor-target id="condiciones-habituales-para-iniciar-un-ataque-con-bandera">
+<p>Para atacar a un enemigo, simplemente necesitas colocar una <a href="/static/survival-vote.png">valla de roble</a> en una parcela de una ciudad enemiga donde se cumplan las condiciones adecuadas. Si el ataque tiene éxito, se generará una bandera de guerra y aparecerá un marcador de guerra (beacon) justo en el centro de la parcela.</p>
+<doc-anchor-target id="condiciones-para-inciar-un-ataque">
     <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#condiciones-habituales-para-iniciar-un-ataque-con-bandera">#</doc-anchor-trigger>
-        <span>Condiciones habituales para iniciar un ataque con bandera</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#condiciones-para-inciar-un-ataque">#</doc-anchor-trigger>
+        <span>Condiciones para inciar un ataque</span>
     </h2>
 </doc-anchor-target>
 <ul>
-<li>En tu archivo <code v-pre>flagwar config.yml</code> debe estar configurado <code v-pre>allow_attacks: true</code>.</li>
-<li>No debes ser <strong>OP</strong> del servidor.</li>
-<li>Debes estar en un mundo donde la guerra esté permitida.
-<ul>
-<li>El comando <code v-pre>/townyworld</code> te indicará si la guerra está activada en el mundo en el que te encuentras.</li>
-<li>Usa <code v-pre>/tw toggle warallowed</code> para cambiar esta propiedad del mundo.</li>
-</ul>
-</li>
-<li>Debes colocar la bandera en un lugar donde no haya ningún techo por encima.<br />
-<em>(Debe haber cielo abierto.)</em></li>
-<li>Tanto tu ciudad como la ciudad enemiga deben pertenecer a una nación, y esas naciones deben considerarse enemigas entre sí.</li>
-<li>Ni tú ni la ciudad enemiga debéis estar en modo neutral o pacífico.</li>
-<li>Es posible que tú y los defensores tengáis que cumplir un número mínimo de jugadores conectados en la ciudad y/o nación.</li>
+<li>Debes colocar la bandera en un lugar donde no haya ningún techo por encima <em>(Debe haber cielo abierto)</em></li>
+<li>Tanto tu ciudad como la ciudad enemiga deben pertenecer a una nación y esas naciones deben considerarse enemigas entre sí.</li>
+<li>Ni tú ni la ciudad enemiga debéis ser neutrales o pacíficas.</li>
 <li>Puede que tengas que atacar primero las parcelas del borde de la ciudad antes de avanzar hacia el interior.</li>
-<li>Puede que tengas que pagar dinero para colocar la bandera.</li>
 </ul>
-<p>Cada <strong>bandera de guerra</strong> tiene varias fases, y tanto la bandera como el beacon cambian de material en cada fase. Cuando la fase final expira sin que la bandera haya sido destruida, la parcela atacada pasa a ser tuya y la bandera desaparece.</p>
+<p>Cada bandera de guerra tiene varias fases, y tanto la bandera como el beacon cambian de material en cada fase. Cuando la fase final expira sin que la bandera haya sido destruida, la parcela atacada pasa a ser tuya y la bandera desaparece.</p>
 <p>Por defecto, los jugadores solo pueden iniciar un único ataque a la vez hasta que su bandera sea destruida.</p>
-<p>Para proteger la bandera de los defensores, puedes optar por construir alrededor de ella, aunque esto puede o no estar permitido según las normas del servidor en el que juegues. La mejor forma de proteger la bandera es mantener a los defensores alejados mediante el combate.</p>
+<p>Para proteger la bandera de los defensores, puedes mantener a los defensores alejados mediante el combate.</p>
 <hr>
 <doc-anchor-target id="defender-un-ataque">
     <h1>
@@ -263,10 +252,10 @@
 <li><strong>Repeler a los atacantes</strong></li>
 <li><strong>Asegurar la zona</strong></li>
 </ol>
-<doc-anchor-target id="la-forma-de-conseguirlo-depende-de-ti-por-defecto-las-banderas-están-hechas-de-lana-con-una-valla-de-madera-como-base-por-ello-usar-un-hacha-o-tijeras-será-más-efectivo-que-una-espada-aun-así-mantén-tu-espada-a-mano-ya-que-probablemente-habrá-atacantes-cerca-con-ganas-de-luchar">
+<doc-anchor-target id="la-forma-de-conseguirlo-depende-de-ti-las-banderas-están-hechas-de-lana-con-una-valla-de-madera-como-base-por-ello-usar-un-hacha-o-tijeras-será-más-efectivo-que-una-espada-aun-así-mantén-tu-espada-a-mano-ya-que-probablemente-habrá-atacantes-cerca-con-ganas-de-luchar">
     <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#la-forma-de-conseguirlo-depende-de-ti-por-defecto-las-banderas-están-hechas-de-lana-con-una-valla-de-madera-como-base-por-ello-usar-un-hacha-o-tijeras-será-más-efectivo-que-una-espada-aun-así-mantén-tu-espada-a-mano-ya-que-probablemente-habrá-atacantes-cerca-con-ganas-de-luchar">#</doc-anchor-trigger>
-        <span>La forma de conseguirlo depende de ti. Por defecto, las banderas están hechas de <strong>lana</strong> con una <strong>valla de madera</strong> como base. Por ello, usar un <strong>hacha</strong> o <strong>tijeras</strong> será más efectivo que una espada. Aun así, mantén tu espada a mano, ya que probablemente habrá atacantes cerca con ganas de luchar.</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#la-forma-de-conseguirlo-depende-de-ti-las-banderas-están-hechas-de-lana-con-una-valla-de-madera-como-base-por-ello-usar-un-hacha-o-tijeras-será-más-efectivo-que-una-espada-aun-así-mantén-tu-espada-a-mano-ya-que-probablemente-habrá-atacantes-cerca-con-ganas-de-luchar">#</doc-anchor-trigger>
+        <span>La forma de conseguirlo depende de ti. Las banderas están hechas de lana con una valla de madera como base. Por ello, usar un hacha o tijeras será más efectivo que una espada. Aun así, mantén tu espada a mano, ya que probablemente habrá atacantes cerca con ganas de luchar.</span>
     </h2>
 </doc-anchor-target>
 
