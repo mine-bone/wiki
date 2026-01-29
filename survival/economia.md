@@ -11,6 +11,6 @@ En nuestro survival puedes trabajar en distintas profesiones las cuales te dará
 ### 2. Misiones
 Repartidos por el spawn de survival puedes encontrar una serie de NPCs los cuales te darán misiones, estas misiones por lo general tienen como recompensa huesitos y algunos items.
 ### 3. Mercado
-Puedes vender items a otros jugadores en el mercado, para ello usa el comando `/mercado`, `/shop` o `/ah`
+Puedes vender items a otros jugadores en el mercado, para ello usa el comando `/mercado` o `/ah`
 ### 4. Caja de votos
 Una de las posibles recompensas de la caja de voto son huesitos (50, 75, 100, 200 o 500) por lo que si usas `/vote` cada día puedes ganar dinero (o items) desde esta caja.

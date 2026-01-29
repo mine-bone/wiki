@@ -6,7 +6,7 @@ categories:
   - guerras
 ---
 # Atacar a un enemigo
-Para atacar a un enemigo, simplemente necesitas colocar una [valla de roble](../static/survival-vote.png) en una parcela de una ciudad enemiga donde se cumplan las condiciones adecuadas. Si el ataque tiene éxito, se generará una bandera de guerra y aparecerá un marcador de guerra (beacon) justo en el centro de la parcela.
+Para atacar a un enemigo, simplemente necesitas colocar una [valla de roble](../static/oak-fence.png) en una parcela de una ciudad enemiga donde se cumplan las condiciones adecuadas. Si el ataque tiene éxito, se generará una bandera de guerra y aparecerá un marcador de guerra (beacon) justo en el centro de la parcela.
 
 ## Condiciones para inciar un ataque
 - Debes colocar la bandera en un lugar donde no haya ningún techo por encima *(Debe haber cielo abierto)*
@@ -20,7 +20,6 @@ Por defecto, los jugadores solo pueden iniciar un único ataque a la vez hasta q
 
 Para proteger la bandera de los defensores, puedes mantener a los defensores alejados mediante el combate.
 
----
 # Defender un ataque
 Para defender una parcela bajo ataque, tienes tres objetivos principales:
 
@@ -29,4 +28,3 @@ Para defender una parcela bajo ataque, tienes tres objetivos principales:
 3. **Asegurar la zona**
 
 La forma de conseguirlo depende de ti. Las banderas están hechas de lana con una valla de madera como base. Por ello, usar un hacha o tijeras será más efectivo que una espada. Aun así, mantén tu espada a mano, ya que probablemente habrá atacantes cerca con ganas de luchar.
----
